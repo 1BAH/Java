@@ -1,0 +1,6 @@
+Desktop 2 4.6 16 5.2 HDD 1024 4
+Netbook 8 13.91 32 14 SSD 512 13.3 IPS 48x37 English
+Laptop 4 11.1 8 4.4 SSD 256 14 TN 34x21 Russian
+Nettop 5 3.3 4 2.1 HDD 2048
+Server 16 19.11 64 20.3 SSD 4096
+Monoblock 8 8 8 8 SSD 128 17.5 VPA 24x16
